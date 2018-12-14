@@ -1,12 +1,21 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
-public class CameraFollow : MonoBehaviour {
 
-    public Transform player;
-	// Update is called once per frame
-	void Update () {
-        transform.LookAt(player);
-	}
+public class CameraFollow : MonoBehaviour
+{
+    public float speed;
+
+    void Start()
+    {
+         
+    }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+            transform.position += transform.right * speed * Time.deltaTime;
+        }
+    }
 }

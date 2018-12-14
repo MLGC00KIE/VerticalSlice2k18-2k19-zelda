@@ -22,6 +22,7 @@ public class PlayerMove : MonoBehaviour
         float yAs = Input.GetAxisRaw("Vertical");
 
         Vector3 movement = new Vector3(xAs, 0.0f, yAs);
+        //Smooth movement
         transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(movement), 0.15f);
         transform.Translate(movement * movementSpeed * Time.deltaTime, Space.World);
 
