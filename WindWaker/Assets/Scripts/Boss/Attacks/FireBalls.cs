@@ -6,6 +6,9 @@ public class FireBalls : MonoBehaviour {
 
     public void Shoot(int amount)
     {
+        for (int i = 0; i < amount; i++)
+        {
 
+        }
     }
 }

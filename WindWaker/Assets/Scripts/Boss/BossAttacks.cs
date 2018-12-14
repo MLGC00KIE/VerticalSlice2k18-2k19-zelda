@@ -5,11 +5,29 @@ using UnityEngine;
 public class BossAttacks : MonoBehaviour {
 
     [SerializeField]
-    private FireBalls fireBall = new FireBalls();
+    private Transform mouthPos;
+    [SerializeField]
+    private GameObject fireball;
+    [SerializeField]
+    private float timeBetweenShots = 0.4f;
 
-
-    void ShootFireBalls(int amount)
+    private void Start()
     {
-        fireBall.Shoot(amount);
+        StartCoroutine(ShootFireBalls(20));
+    }
+
+
+    IEnumerator ShootFireBalls(int amount)
+    {
+
+        for (int i = 0; i < amount; i++)
+        {
+            GameObject fireballGO = Instantiate(fireball);
+            fireballGO.transform.position = mouthPos.position;
+            fireballGO.transform.rotation = mouthPos.rotation;
+            yield return new WaitForSecondsRealtime(timeBetweenShots);
+        }
+
+
     }
 }
