@@ -1,5 +1,8 @@
-﻿//By Jarno van Lierop
+﻿//Add to player
+//--------------------
+//By Jarno van Lierop
 //GD2A
+//--------------------
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
@@ -10,19 +13,20 @@ public class HealthPlayer : MonoBehaviour {
 
     private int playerStartingHealth = 100;
     private int playerCurrentHealth;
-    private int tempEnemyDamage = 50;//damage dealt when touching enemy
-    public bool playerDeath;//dead: yes or no
+    private int tempEnemyDamage = 1;
+    public bool playerDeath;
 
     public Transform Enemy;
-    public Slider healthBar;//In game slider
+    public Slider healthBar;
     public GameObject GameOverMenu;
 
     private void Awake()
     {
+        GameOverMenu.gameObject.SetActive(false);
         playerCurrentHealth = playerStartingHealth;
         healthBar.maxValue = playerCurrentHealth;
         healthBar.minValue = 0;
-        playerDeath = false;//no
+        playerDeath = false;
     }
 
     void OnCollisionEnter(Collision other)
@@ -33,32 +37,30 @@ public class HealthPlayer : MonoBehaviour {
         }
     }
 
-    void TakeDamage()//removing the damage done from playerCurrentHealth
+    void TakeDamage()
     {
         playerCurrentHealth -= tempEnemyDamage;
-        healthBar.value = playerCurrentHealth;//updating the slider
-        Debug.Log("Damage Taken");
+        healthBar.value = playerCurrentHealth;
     }
 
-    void Update () {
+    void Update() {
         healthBar.value = playerCurrentHealth;
-		if (playerCurrentHealth <= 0)
+        if (playerCurrentHealth <= 0)
         {
             PlayerDeath();
         }
-      
+
+        if (playerDeath == true && Input.GetKey(KeyCode.R)) {
+            SceneManager.LoadScene("Jarno", LoadSceneMode.Single);
+        }
 	}
+
     void PlayerDeath()
-    {
-        playerDeath = true;//yes
-        Time.timeScale = 0.0f;//freezing game
-        Debug.Log("Player died");
-        EnableMenu();
-    }
-    public void EnableMenu()
-    {
+    { 
+        playerDeath = true;
+        Time.timeScale = 0.0f;
         GameOverMenu.gameObject.SetActive(true);
-        Debug.Log("GameOverMenu enabled");
     }
+  
   
 }

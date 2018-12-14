@@ -1,5 +1,8 @@
-﻿//By Jarno van Lierop
+﻿//Add to player
+//--------------------
+//By Jarno van Lierop
 //GD2A
+//--------------------
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
