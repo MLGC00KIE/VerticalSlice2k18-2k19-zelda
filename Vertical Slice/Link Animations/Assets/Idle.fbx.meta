@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: f15ad88d0539f8c4093d440bf10e3f84
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mixamo:Mesh2:group5
+    100004: Mixamo:Mesh2:Link
+    100006: Mixamo:Mesh2:pCube1
+    100008: Mixamo:Mesh2:polySurface1
+    100010: Mixamo:Mesh2:polySurface1 1
+    100012: Mixamo:Mesh2:transform55
+    100014: Mixamo:Mesh2:transform56
+    100016: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Head
+    100018: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:HeadTop_End
+    100020: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Hips
+    100022: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftArm
+    100024: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftFoot
+    100026: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftForeArm
+    100028: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHand
+    100030: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex1
+    100032: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex2
+    100034: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex3
+    100036: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex4
+    100038: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing1
+    100040: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing2
+    100042: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing3
+    100044: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing4
+    100046: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb1
+    100048: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb2
+    100050: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb3
+    100052: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb4
+    100054: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftLeg
+    100056: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftShoulder
+    100058: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToe_End
+    100060: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToeBase
+    100062: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftUpLeg
+    100064: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    100066: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Neck
+    100068: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightArm
+    100070: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightFoot
+    100072: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightForeArm
+    100074: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHand
+    100076: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex1
+    100078: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex2
+    100080: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex3
+    100082: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex4
+    100084: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing1
+    100086: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing2
+    100088: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing3
+    100090: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing4
+    100092: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb1
+    100094: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb2
+    100096: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb3
+    100098: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb4
+    100100: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightLeg
+    100102: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightShoulder
+    100104: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToe_End
+    100106: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToeBase
+    100108: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightUpLeg
+    100110: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine
+    100112: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine1
+    100114: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine2
+    400000: //RootNode
+    400002: Mixamo:Mesh2:group5
+    400004: Mixamo:Mesh2:Link
+    400006: Mixamo:Mesh2:pCube1
+    400008: Mixamo:Mesh2:polySurface1
+    400010: Mixamo:Mesh2:polySurface1 1
+    400012: Mixamo:Mesh2:transform55
+    400014: Mixamo:Mesh2:transform56
+    400016: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Head
+    400018: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:HeadTop_End
+    400020: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Hips
+    400022: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftArm
+    400024: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftFoot
+    400026: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftForeArm
+    400028: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHand
+    400030: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex1
+    400032: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex2
+    400034: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex3
+    400036: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex4
+    400038: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing1
+    400040: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing2
+    400042: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing3
+    400044: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing4
+    400046: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb1
+    400048: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb2
+    400050: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb3
+    400052: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb4
+    400054: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftLeg
+    400056: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftShoulder
+    400058: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToe_End
+    400060: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToeBase
+    400062: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftUpLeg
+    400064: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    400066: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Neck
+    400068: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightArm
+    400070: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightFoot
+    400072: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightForeArm
+    400074: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHand
+    400076: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex1
+    400078: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex2
+    400080: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex3
+    400082: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex4
+    400084: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing1
+    400086: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing2
+    400088: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing3
+    400090: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing4
+    400092: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb1
+    400094: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb2
+    400096: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb3
+    400098: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb4
+    400100: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightLeg
+    400102: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightShoulder
+    400104: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToe_End
+    400106: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToeBase
+    400108: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightUpLeg
+    400110: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine
+    400112: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine1
+    400114: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine2
+    2100000: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert5
+    2100002: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert19
+    2100004: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert26
+    2100006: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert8
+    2100008: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert24
+    2100010: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert18
+    2100012: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert4
+    2100014: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert16
+    2100016: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert17
+    2100018: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert20
+    2100020: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert10
+    2100022: Mixamo_lambert2
+    2100024: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert23
+    2100026: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert11
+    2100028: Mixamo_Mesh2_lambert22
+    2100030: Mixamo_Mesh2_lambert21
+    2300000: Mixamo:Mesh2:polySurface1
+    3300000: Mixamo:Mesh2:polySurface1
+    4300000: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    4300002: Mixamo:Mesh2:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
