@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 7483afd03ee203a4189431a81b801726
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Boog
+    100002: Boog1
+    100004: Mixamo:Mesh2:body1
+    100006: Mixamo:Mesh2:body1 1
+    100008: Mixamo:Mesh2:body1 2
+    100010: Mixamo:Mesh2:body1 3
+    100012: Mixamo:Mesh2:body10
+    100014: Mixamo:Mesh2:body12
+    100016: Mixamo:Mesh2:body14
+    100018: Mixamo:Mesh2:body4
+    100020: Mixamo:Mesh2:body4 1
+    100022: Mixamo:Mesh2:body6
+    100024: Mixamo:Mesh2:body7
+    100026: Mixamo:Mesh2:ear2
+    100028: Mixamo:Mesh2:group1
+    100030: Mixamo:Mesh2:group2
+    100032: Mixamo:Mesh2:group2_r_arm
+    100034: Mixamo:Mesh2:group2_r_hand
+    100036: Mixamo:Mesh2:group2_r_hand2
+    100038: Mixamo:Mesh2:group2_r_hand4
+    100040: Mixamo:Mesh2:group3
+    100042: Mixamo:Mesh2:group4
+    100044: Mixamo:Mesh2:group5
+    100046: Mixamo:Mesh2:hair_back
+    100048: Mixamo:Mesh2:hair_back 1
+    100050: Mixamo:Mesh2:hair_back2
+    100052: Mixamo:Mesh2:head
+    100054: Mixamo:Mesh2:head 1
+    100056: Mixamo:Mesh2:Link
+    100058: Mixamo:Mesh2:Link004:pCube2
+    100060: Mixamo:Mesh2:Link004:pCube3
+    100062: Mixamo:Mesh2:Link004:pCube4
+    100064: Mixamo:Mesh2:Link004:pCube5
+    100066: Mixamo:Mesh2:Link004:pCube6
+    100068: Mixamo:Mesh2:Link004:pCube7
+    100070: Mixamo:Mesh2:Link004:pCylinder5
+    100072: Mixamo:Mesh2:Link004:transform1
+    100074: Mixamo:Mesh2:Link004:transform2
+    100076: Mixamo:Mesh2:Link004:transform3
+    100078: Mixamo:Mesh2:Link004:transform4
+    100080: Mixamo:Mesh2:Link004:transform5
+    100082: Mixamo:Mesh2:Link004:transform6
+    100084: Mixamo:Mesh2:Link004:transform7
+    100086: Mixamo:Mesh2:nose1
+    100088: Mixamo:Mesh2:nose1 1
+    100090: Mixamo:Mesh2:nose2
+    100092: Mixamo:Mesh2:nose2 1
+    100094: Mixamo:Mesh2:pCube1
+    100096: Mixamo:Mesh2:pCylinder1
+    100098: Mixamo:Mesh2:pCylinder7
+    100100: Mixamo:Mesh2:polySurface1
+    100102: Mixamo:Mesh2:polySurface1 1
+    100104: Mixamo:Mesh2:pSphere1
+    100106: Mixamo:Mesh2:pSphere2
+    100108: Mixamo:Mesh2:r_arm
+    100110: Mixamo:Mesh2:r_arm 1
+    100112: Mixamo:Mesh2:r_arm 2
+    100114: Mixamo:Mesh2:r_arm 3
+    100116: Mixamo:Mesh2:r_arm 4
+    100118: Mixamo:Mesh2:r_arm4
+    100120: Mixamo:Mesh2:r_feet
+    100122: Mixamo:Mesh2:r_feet 1
+    100124: Mixamo:Mesh2:r_feet 2
+    100126: Mixamo:Mesh2:r_feet 3
+    100128: Mixamo:Mesh2:r_hand
+    100130: Mixamo:Mesh2:r_hand 1
+    100132: Mixamo:Mesh2:r_hand 2
+    100134: Mixamo:Mesh2:r_leg
+    100136: Mixamo:Mesh2:r_leg 1
+    100138: Mixamo:Mesh2:r_leg 2
+    100140: Mixamo:Mesh2:r_leg 3
+    100142: Mixamo:Mesh2:r_leg 4
+    100144: Mixamo:Mesh2:r_leg 5
+    100146: Mixamo:Mesh2:r_leg10
+    100148: Mixamo:Mesh2:r_leg13
+    100150: Mixamo:Mesh2:r_leg2
+    100152: Mixamo:Mesh2:r_leg3
+    100154: Mixamo:Mesh2:r_leg5
+    100156: Mixamo:Mesh2:r_leg7
+    100158: Mixamo:Mesh2:transform1
+    100160: Mixamo:Mesh2:transform10
+    100162: Mixamo:Mesh2:transform11
+    100164: Mixamo:Mesh2:transform12
+    100166: Mixamo:Mesh2:transform13
+    100168: Mixamo:Mesh2:transform14
+    100170: Mixamo:Mesh2:transform15
+    100172: Mixamo:Mesh2:transform16
+    100174: Mixamo:Mesh2:transform17
+    100176: Mixamo:Mesh2:transform18
+    100178: Mixamo:Mesh2:transform19
+    100180: Mixamo:Mesh2:transform2
+    100182: Mixamo:Mesh2:transform20
+    100184: Mixamo:Mesh2:transform21
+    100186: Mixamo:Mesh2:transform22
+    100188: Mixamo:Mesh2:transform23
+    100190: Mixamo:Mesh2:transform24
+    100192: Mixamo:Mesh2:transform25
+    100194: Mixamo:Mesh2:transform26
+    100196: Mixamo:Mesh2:transform27
+    100198: Mixamo:Mesh2:transform28
+    100200: Mixamo:Mesh2:transform29
+    100202: Mixamo:Mesh2:transform3
+    100204: Mixamo:Mesh2:transform30
+    100206: Mixamo:Mesh2:transform31
+    100208: Mixamo:Mesh2:transform32
+    100210: Mixamo:Mesh2:transform33
+    100212: Mixamo:Mesh2:transform34
+    100214: Mixamo:Mesh2:transform35
+    100216: Mixamo:Mesh2:transform36
+    100218: Mixamo:Mesh2:transform37
+    100220: Mixamo:Mesh2:transform38
+    100222: Mixamo:Mesh2:transform39
+    100224: Mixamo:Mesh2:transform4
+    100226: Mixamo:Mesh2:transform40
+    100228: Mixamo:Mesh2:transform41
+    100230: Mixamo:Mesh2:transform42
+    100232: Mixamo:Mesh2:transform43
+    100234: Mixamo:Mesh2:transform44
+    100236: Mixamo:Mesh2:transform45
+    100238: Mixamo:Mesh2:transform46
+    100240: Mixamo:Mesh2:transform47
+    100242: Mixamo:Mesh2:transform48
+    100244: Mixamo:Mesh2:transform5
+    100246: Mixamo:Mesh2:transform5 1
+    100248: Mixamo:Mesh2:transform50
+    100250: Mixamo:Mesh2:transform51
+    100252: Mixamo:Mesh2:transform53
+    100254: Mixamo:Mesh2:transform54
+    100256: Mixamo:Mesh2:transform55
+    100258: Mixamo:Mesh2:transform56
+    100260: Mixamo:Mesh2:transform6
+    100262: Mixamo:Mesh2:transform6 1
+    100264: Mixamo:Mesh2:transform7
+    100266: Mixamo:Mesh2:transform8
+    100268: Mixamo:Mesh2:transform9
+    100270: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Head
+    100272: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:HeadTop_End
+    100274: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Hips
+    100276: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftArm
+    100278: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftFoot
+    100280: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftForeArm
+    100282: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHand
+    100284: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex1
+    100286: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex2
+    100288: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex3
+    100290: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex4
+    100292: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing1
+    100294: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing2
+    100296: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing3
+    100298: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing4
+    100300: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb1
+    100302: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb2
+    100304: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb3
+    100306: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb4
+    100308: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftLeg
+    100310: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftShoulder
+    100312: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToe_End
+    100314: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToeBase
+    100316: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftUpLeg
+    100318: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    100320: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Neck
+    100322: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightArm
+    100324: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightFoot
+    100326: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightForeArm
+    100328: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHand
+    100330: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex1
+    100332: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex2
+    100334: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex3
+    100336: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex4
+    100338: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing1
+    100340: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing2
+    100342: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing3
+    100344: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing4
+    100346: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb1
+    100348: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb2
+    100350: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb3
+    100352: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb4
+    100354: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightLeg
+    100356: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightShoulder
+    100358: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToe_End
+    100360: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToeBase
+    100362: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightUpLeg
+    100364: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine
+    100366: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine1
+    100368: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine2
+    100370: //RootNode
+    100372: Touw
+    100374: transform1
+    100376: transform2
+    400000: Boog
+    400002: Boog1
+    400004: Mixamo:Mesh2:body1
+    400006: Mixamo:Mesh2:body1 1
+    400008: Mixamo:Mesh2:body1 2
+    400010: Mixamo:Mesh2:body1 3
+    400012: Mixamo:Mesh2:body10
+    400014: Mixamo:Mesh2:body12
+    400016: Mixamo:Mesh2:body14
+    400018: Mixamo:Mesh2:body4
+    400020: Mixamo:Mesh2:body4 1
+    400022: Mixamo:Mesh2:body6
+    400024: Mixamo:Mesh2:body7
+    400026: Mixamo:Mesh2:ear2
+    400028: Mixamo:Mesh2:group1
+    400030: Mixamo:Mesh2:group2
+    400032: Mixamo:Mesh2:group2_r_arm
+    400034: Mixamo:Mesh2:group2_r_hand
+    400036: Mixamo:Mesh2:group2_r_hand2
+    400038: Mixamo:Mesh2:group2_r_hand4
+    400040: Mixamo:Mesh2:group3
+    400042: Mixamo:Mesh2:group4
+    400044: Mixamo:Mesh2:group5
+    400046: Mixamo:Mesh2:hair_back
+    400048: Mixamo:Mesh2:hair_back 1
+    400050: Mixamo:Mesh2:hair_back2
+    400052: Mixamo:Mesh2:head
+    400054: Mixamo:Mesh2:head 1
+    400056: Mixamo:Mesh2:Link
+    400058: Mixamo:Mesh2:Link004:pCube2
+    400060: Mixamo:Mesh2:Link004:pCube3
+    400062: Mixamo:Mesh2:Link004:pCube4
+    400064: Mixamo:Mesh2:Link004:pCube5
+    400066: Mixamo:Mesh2:Link004:pCube6
+    400068: Mixamo:Mesh2:Link004:pCube7
+    400070: Mixamo:Mesh2:Link004:pCylinder5
+    400072: Mixamo:Mesh2:Link004:transform1
+    400074: Mixamo:Mesh2:Link004:transform2
+    400076: Mixamo:Mesh2:Link004:transform3
+    400078: Mixamo:Mesh2:Link004:transform4
+    400080: Mixamo:Mesh2:Link004:transform5
+    400082: Mixamo:Mesh2:Link004:transform6
+    400084: Mixamo:Mesh2:Link004:transform7
+    400086: Mixamo:Mesh2:nose1
+    400088: Mixamo:Mesh2:nose1 1
+    400090: Mixamo:Mesh2:nose2
+    400092: Mixamo:Mesh2:nose2 1
+    400094: Mixamo:Mesh2:pCube1
+    400096: Mixamo:Mesh2:pCylinder1
+    400098: Mixamo:Mesh2:pCylinder7
+    400100: Mixamo:Mesh2:polySurface1
+    400102: Mixamo:Mesh2:polySurface1 1
+    400104: Mixamo:Mesh2:pSphere1
+    400106: Mixamo:Mesh2:pSphere2
+    400108: Mixamo:Mesh2:r_arm
+    400110: Mixamo:Mesh2:r_arm 1
+    400112: Mixamo:Mesh2:r_arm 2
+    400114: Mixamo:Mesh2:r_arm 3
+    400116: Mixamo:Mesh2:r_arm 4
+    400118: Mixamo:Mesh2:r_arm4
+    400120: Mixamo:Mesh2:r_feet
+    400122: Mixamo:Mesh2:r_feet 1
+    400124: Mixamo:Mesh2:r_feet 2
+    400126: Mixamo:Mesh2:r_feet 3
+    400128: Mixamo:Mesh2:r_hand
+    400130: Mixamo:Mesh2:r_hand 1
+    400132: Mixamo:Mesh2:r_hand 2
+    400134: Mixamo:Mesh2:r_leg
+    400136: Mixamo:Mesh2:r_leg 1
+    400138: Mixamo:Mesh2:r_leg 2
+    400140: Mixamo:Mesh2:r_leg 3
+    400142: Mixamo:Mesh2:r_leg 4
+    400144: Mixamo:Mesh2:r_leg 5
+    400146: Mixamo:Mesh2:r_leg10
+    400148: Mixamo:Mesh2:r_leg13
+    400150: Mixamo:Mesh2:r_leg2
+    400152: Mixamo:Mesh2:r_leg3
+    400154: Mixamo:Mesh2:r_leg5
+    400156: Mixamo:Mesh2:r_leg7
+    400158: Mixamo:Mesh2:transform1
+    400160: Mixamo:Mesh2:transform10
+    400162: Mixamo:Mesh2:transform11
+    400164: Mixamo:Mesh2:transform12
+    400166: Mixamo:Mesh2:transform13
+    400168: Mixamo:Mesh2:transform14
+    400170: Mixamo:Mesh2:transform15
+    400172: Mixamo:Mesh2:transform16
+    400174: Mixamo:Mesh2:transform17
+    400176: Mixamo:Mesh2:transform18
+    400178: Mixamo:Mesh2:transform19
+    400180: Mixamo:Mesh2:transform2
+    400182: Mixamo:Mesh2:transform20
+    400184: Mixamo:Mesh2:transform21
+    400186: Mixamo:Mesh2:transform22
+    400188: Mixamo:Mesh2:transform23
+    400190: Mixamo:Mesh2:transform24
+    400192: Mixamo:Mesh2:transform25
+    400194: Mixamo:Mesh2:transform26
+    400196: Mixamo:Mesh2:transform27
+    400198: Mixamo:Mesh2:transform28
+    400200: Mixamo:Mesh2:transform29
+    400202: Mixamo:Mesh2:transform3
+    400204: Mixamo:Mesh2:transform30
+    400206: Mixamo:Mesh2:transform31
+    400208: Mixamo:Mesh2:transform32
+    400210: Mixamo:Mesh2:transform33
+    400212: Mixamo:Mesh2:transform34
+    400214: Mixamo:Mesh2:transform35
+    400216: Mixamo:Mesh2:transform36
+    400218: Mixamo:Mesh2:transform37
+    400220: Mixamo:Mesh2:transform38
+    400222: Mixamo:Mesh2:transform39
+    400224: Mixamo:Mesh2:transform4
+    400226: Mixamo:Mesh2:transform40
+    400228: Mixamo:Mesh2:transform41
+    400230: Mixamo:Mesh2:transform42
+    400232: Mixamo:Mesh2:transform43
+    400234: Mixamo:Mesh2:transform44
+    400236: Mixamo:Mesh2:transform45
+    400238: Mixamo:Mesh2:transform46
+    400240: Mixamo:Mesh2:transform47
+    400242: Mixamo:Mesh2:transform48
+    400244: Mixamo:Mesh2:transform5
+    400246: Mixamo:Mesh2:transform5 1
+    400248: Mixamo:Mesh2:transform50
+    400250: Mixamo:Mesh2:transform51
+    400252: Mixamo:Mesh2:transform53
+    400254: Mixamo:Mesh2:transform54
+    400256: Mixamo:Mesh2:transform55
+    400258: Mixamo:Mesh2:transform56
+    400260: Mixamo:Mesh2:transform6
+    400262: Mixamo:Mesh2:transform6 1
+    400264: Mixamo:Mesh2:transform7
+    400266: Mixamo:Mesh2:transform8
+    400268: Mixamo:Mesh2:transform9
+    400270: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Head
+    400272: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:HeadTop_End
+    400274: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Hips
+    400276: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftArm
+    400278: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftFoot
+    400280: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftForeArm
+    400282: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHand
+    400284: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex1
+    400286: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex2
+    400288: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex3
+    400290: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex4
+    400292: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing1
+    400294: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing2
+    400296: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing3
+    400298: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing4
+    400300: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb1
+    400302: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb2
+    400304: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb3
+    400306: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb4
+    400308: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftLeg
+    400310: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftShoulder
+    400312: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToe_End
+    400314: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToeBase
+    400316: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftUpLeg
+    400318: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    400320: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Neck
+    400322: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightArm
+    400324: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightFoot
+    400326: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightForeArm
+    400328: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHand
+    400330: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex1
+    400332: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex2
+    400334: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex3
+    400336: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex4
+    400338: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing1
+    400340: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing2
+    400342: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing3
+    400344: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing4
+    400346: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb1
+    400348: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb2
+    400350: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb3
+    400352: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb4
+    400354: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightLeg
+    400356: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightShoulder
+    400358: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToe_End
+    400360: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToeBase
+    400362: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightUpLeg
+    400364: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine
+    400366: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine1
+    400368: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine2
+    400370: //RootNode
+    400372: Touw
+    400374: transform1
+    400376: transform2
+    2100000: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert5
+    2100002: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert19
+    2100004: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert26
+    2100006: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert8
+    2100008: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert24
+    2100010: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert18
+    2100012: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert4
+    2100014: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert16
+    2100016: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert17
+    2100018: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert20
+    2100020: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert10
+    2100022: Mixamo_lambert2
+    2100024: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert23
+    2100026: Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert11
+    2100028: Mixamo_Mesh2_lambert22
+    2100030: Mixamo_Mesh2_lambert21
+    2100032: lambert3
+    2100034: lambert4
+    2300000: Boog1
+    2300002: Mixamo:Mesh2:polySurface1
+    3300000: Boog1
+    3300002: Mixamo:Mesh2:polySurface1
+    4300000: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    4300002: Mixamo:Mesh2:polySurface1
+    4300004: Boog1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
