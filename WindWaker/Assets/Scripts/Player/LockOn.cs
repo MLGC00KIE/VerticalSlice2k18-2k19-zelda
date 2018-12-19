@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class LockOn : MonoBehaviour {
 
-    private string enemyTag = "";
+    private string enemyTag = "enemy";
     public GameObject focusBar;
     public GameObject focusMarker;
     private bool lockedOn;//lockedon: yes or no
@@ -16,7 +16,7 @@ public class LockOn : MonoBehaviour {
     void LockOnTarget()
     {
         lockedOn = true;
-        enemyTag = "Enemy";//set lockon target Enemy
+   
         transform.LookAt(enemyTarget);//focus camera on Enemy
     }
     void ReleaseTarget()
