@@ -8,11 +8,10 @@ public class DodgeJump : MonoBehaviour {
 
     public int dodgeSpeed;
     public int jumpHeight;
-    public int speed;
 	
 	void Update () {
         //Laat de player strafen en een kleine sprong doen
-        if (Input.GetKey(KeyCode.A) && (Input.GetKey(KeyCode.LeftShift)))//L-shift + A + Space == 
+        if (Input.GetKey(KeyCode.A) && (Input.GetKey(KeyCode.LeftShift)))//L-shift + A == 
         {
             GameObject Player = GameObject.FindWithTag("player");
             Player.GetComponent<PlayerMove>().enabled = false;

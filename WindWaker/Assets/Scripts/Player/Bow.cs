@@ -6,34 +6,27 @@ public class Bow : MonoBehaviour
 {
     public GameObject projectile;
     public Transform bulletSpawn;
-    private float startTime;
-    private float keyDownTimer;
-    private float bowRange;
+    public Animator anim;
+    private float bowRange = 4f;
 
-    // Use this for initialization
-    void Start()
+    private void Start()
     {
-       
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {   //Schiet de pijl
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetMouseButtonDown(1))
         {
-            startTime += keyDownTimer * Time.deltaTime;
-            Debug.Log("Bow button is pressed.");
+            anim.SetTrigger("shoot");
+            anim.ResetTrigger("shoot");
+            ShootAnArrow();
         }
-        if (Input.GetKeyUp(KeyCode.Space) )
-        {
-                Debug.Log("long range");
-                bowRange = 4f;
-                ShootAnArrow();
-                
-            }
 
         
     }
+
     void ShootAnArrow()
     {
         var bullet = (GameObject)Instantiate(
