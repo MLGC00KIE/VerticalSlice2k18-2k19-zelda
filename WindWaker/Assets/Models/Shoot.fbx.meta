@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 7483afd03ee203a4189431a81b801726
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Final_Bow_Shoot_framforframe:Boog
+    100002: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body1
+    100004: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body1 1
+    100006: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body1 2
+    100008: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body1 3
+    100010: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body10
+    100012: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body12
+    100014: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body14
+    100016: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body4
+    100018: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body4 1
+    100020: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body6
+    100022: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body7
+    100024: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:ear2
+    100026: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group1
+    100028: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2
+    100030: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2_r_arm
+    100032: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2_r_hand
+    100034: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2_r_hand2
+    100036: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2_r_hand4
+    100038: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group3
+    100040: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group4
+    100042: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group5
+    100044: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:hair_back
+    100046: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:hair_back 1
+    100048: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:hair_back2
+    100050: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:head
+    100052: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:head 1
+    100054: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link
+    100056: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube2
+    100058: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube3
+    100060: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube4
+    100062: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube5
+    100064: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube6
+    100066: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube7
+    100068: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCylinder5
+    100070: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform1
+    100072: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform2
+    100074: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform3
+    100076: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform4
+    100078: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform5
+    100080: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform6
+    100082: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform7
+    100084: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:nose1
+    100086: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:nose1 1
+    100088: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:nose2
+    100090: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:nose2 1
+    100092: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pCube1
+    100094: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pCylinder1
+    100096: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pCylinder7
+    100098: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:polySurface1
+    100100: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:polySurface1 1
+    100102: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pSphere1
+    100104: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pSphere2
+    100106: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm
+    100108: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm 1
+    100110: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm 2
+    100112: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm 3
+    100114: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm 4
+    100116: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm4
+    100118: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_feet
+    100120: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_feet 1
+    100122: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_feet 2
+    100124: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_feet 3
+    100126: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_hand
+    100128: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_hand 1
+    100130: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_hand 2
+    100132: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg
+    100134: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 1
+    100136: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 2
+    100138: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 3
+    100140: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 4
+    100142: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 5
+    100144: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg10
+    100146: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg13
+    100148: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg2
+    100150: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg3
+    100152: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg5
+    100154: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg7
+    100156: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform1
+    100158: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform10
+    100160: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform11
+    100162: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform12
+    100164: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform13
+    100166: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform14
+    100168: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform15
+    100170: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform16
+    100172: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform17
+    100174: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform18
+    100176: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform19
+    100178: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform2
+    100180: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform20
+    100182: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform21
+    100184: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform22
+    100186: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform23
+    100188: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform24
+    100190: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform25
+    100192: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform26
+    100194: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform27
+    100196: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform28
+    100198: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform29
+    100200: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform3
+    100202: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform30
+    100204: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform31
+    100206: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform32
+    100208: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform33
+    100210: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform34
+    100212: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform35
+    100214: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform36
+    100216: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform37
+    100218: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform38
+    100220: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform39
+    100222: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform4
+    100224: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform40
+    100226: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform41
+    100228: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform42
+    100230: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform43
+    100232: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform44
+    100234: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform45
+    100236: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform46
+    100238: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform47
+    100240: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform48
+    100242: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform5
+    100244: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform5 1
+    100246: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform50
+    100248: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform51
+    100250: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform53
+    100252: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform54
+    100254: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform55
+    100256: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform56
+    100258: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform6
+    100260: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform6 1
+    100262: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform7
+    100264: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform8
+    100266: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform9
+    100268: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Head
+    100270: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:HeadTop_End
+    100272: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Hips
+    100274: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftArm
+    100276: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftFoot
+    100278: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftForeArm
+    100280: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHand
+    100282: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex1
+    100284: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex2
+    100286: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex3
+    100288: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex4
+    100290: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing1
+    100292: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing2
+    100294: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing3
+    100296: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing4
+    100298: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb1
+    100300: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb2
+    100302: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb3
+    100304: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb4
+    100306: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftLeg
+    100308: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftShoulder
+    100310: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToe_End
+    100312: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToeBase
+    100314: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftUpLeg
+    100316: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    100318: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Neck
+    100320: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightArm
+    100322: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightFoot
+    100324: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightForeArm
+    100326: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHand
+    100328: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex1
+    100330: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex2
+    100332: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex3
+    100334: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex4
+    100336: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing1
+    100338: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing2
+    100340: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing3
+    100342: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing4
+    100344: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb1
+    100346: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb2
+    100348: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb3
+    100350: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb4
+    100352: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightLeg
+    100354: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightShoulder
+    100356: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToe_End
+    100358: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToeBase
+    100360: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightUpLeg
+    100362: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine
+    100364: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine1
+    100366: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine2
+    100368: Final_Bow_Shoot_framforframe:Touw
+    100370: //RootNode
+    400000: Final_Bow_Shoot_framforframe:Boog
+    400002: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body1
+    400004: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body1 1
+    400006: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body1 2
+    400008: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body1 3
+    400010: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body10
+    400012: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body12
+    400014: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body14
+    400016: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body4
+    400018: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body4 1
+    400020: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body6
+    400022: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:body7
+    400024: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:ear2
+    400026: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group1
+    400028: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2
+    400030: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2_r_arm
+    400032: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2_r_hand
+    400034: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2_r_hand2
+    400036: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group2_r_hand4
+    400038: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group3
+    400040: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group4
+    400042: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:group5
+    400044: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:hair_back
+    400046: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:hair_back 1
+    400048: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:hair_back2
+    400050: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:head
+    400052: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:head 1
+    400054: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link
+    400056: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube2
+    400058: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube3
+    400060: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube4
+    400062: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube5
+    400064: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube6
+    400066: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCube7
+    400068: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:pCylinder5
+    400070: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform1
+    400072: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform2
+    400074: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform3
+    400076: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform4
+    400078: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform5
+    400080: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform6
+    400082: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:Link004:transform7
+    400084: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:nose1
+    400086: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:nose1 1
+    400088: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:nose2
+    400090: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:nose2 1
+    400092: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pCube1
+    400094: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pCylinder1
+    400096: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pCylinder7
+    400098: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:polySurface1
+    400100: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:polySurface1 1
+    400102: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pSphere1
+    400104: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:pSphere2
+    400106: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm
+    400108: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm 1
+    400110: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm 2
+    400112: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm 3
+    400114: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm 4
+    400116: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_arm4
+    400118: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_feet
+    400120: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_feet 1
+    400122: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_feet 2
+    400124: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_feet 3
+    400126: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_hand
+    400128: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_hand 1
+    400130: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_hand 2
+    400132: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg
+    400134: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 1
+    400136: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 2
+    400138: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 3
+    400140: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 4
+    400142: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg 5
+    400144: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg10
+    400146: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg13
+    400148: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg2
+    400150: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg3
+    400152: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg5
+    400154: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:r_leg7
+    400156: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform1
+    400158: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform10
+    400160: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform11
+    400162: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform12
+    400164: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform13
+    400166: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform14
+    400168: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform15
+    400170: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform16
+    400172: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform17
+    400174: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform18
+    400176: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform19
+    400178: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform2
+    400180: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform20
+    400182: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform21
+    400184: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform22
+    400186: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform23
+    400188: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform24
+    400190: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform25
+    400192: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform26
+    400194: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform27
+    400196: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform28
+    400198: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform29
+    400200: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform3
+    400202: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform30
+    400204: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform31
+    400206: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform32
+    400208: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform33
+    400210: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform34
+    400212: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform35
+    400214: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform36
+    400216: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform37
+    400218: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform38
+    400220: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform39
+    400222: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform4
+    400224: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform40
+    400226: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform41
+    400228: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform42
+    400230: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform43
+    400232: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform44
+    400234: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform45
+    400236: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform46
+    400238: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform47
+    400240: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform48
+    400242: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform5
+    400244: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform5 1
+    400246: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform50
+    400248: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform51
+    400250: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform53
+    400252: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform54
+    400254: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform55
+    400256: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform56
+    400258: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform6
+    400260: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform6 1
+    400262: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform7
+    400264: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform8
+    400266: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:transform9
+    400268: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Head
+    400270: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:HeadTop_End
+    400272: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Hips
+    400274: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftArm
+    400276: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftFoot
+    400278: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftForeArm
+    400280: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHand
+    400282: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex1
+    400284: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex2
+    400286: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex3
+    400288: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandIndex4
+    400290: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing1
+    400292: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing2
+    400294: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing3
+    400296: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandRing4
+    400298: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb1
+    400300: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb2
+    400302: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb3
+    400304: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftHandThumb4
+    400306: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftLeg
+    400308: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftShoulder
+    400310: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToe_End
+    400312: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftToeBase
+    400314: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:LeftUpLeg
+    400316: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    400318: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Neck
+    400320: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightArm
+    400322: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightFoot
+    400324: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightForeArm
+    400326: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHand
+    400328: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex1
+    400330: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex2
+    400332: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex3
+    400334: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandIndex4
+    400336: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing1
+    400338: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing2
+    400340: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing3
+    400342: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandRing4
+    400344: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb1
+    400346: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb2
+    400348: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb3
+    400350: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightHandThumb4
+    400352: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightLeg
+    400354: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightShoulder
+    400356: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToe_End
+    400358: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightToeBase
+    400360: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:RightUpLeg
+    400362: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine
+    400364: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine1
+    400366: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Spine2
+    400368: Final_Bow_Shoot_framforframe:Touw
+    400370: //RootNode
+    2100000: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert5
+    2100002: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert19
+    2100004: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert26
+    2100006: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert8
+    2100008: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert24
+    2100010: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert18
+    2100012: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert4
+    2100014: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert16
+    2100016: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert17
+    2100018: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert20
+    2100020: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert10
+    2100022: Final_Bow_Shoot_framforframe_Mixamo_lambert2
+    2100024: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert23
+    2100026: Final_Bow_Shoot_framforframe_Mixamo_Walk_Link005_eigenrig012_Eigenrig008_Final_Link_Mesh_lambert11
+    2100028: Final_Bow_Shoot_framforframe_Mixamo_Mesh2_lambert22
+    2100030: Final_Bow_Shoot_framforframe_Mixamo_Mesh2_lambert21
+    2100032: Final_Bow_Shoot_framforframe_lambert5
+    2100034: Final_Bow_Shoot_framforframe_lambert6
+    2300000: Final_Bow_Shoot_framforframe:Boog
+    2300002: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:polySurface1
+    2300004: Final_Bow_Shoot_framforframe:Touw
+    3300000: Final_Bow_Shoot_framforframe:Boog
+    3300002: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:polySurface1
+    3300004: Final_Bow_Shoot_framforframe:Touw
+    4300000: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+    4300002: Final_Bow_Shoot_framforframe:Mixamo:Mesh2:polySurface1
+    4300004: Final_Bow_Shoot_framforframe:Boog
+    4300006: Final_Bow_Shoot_framforframe:Touw
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Final_Bow_Shoot_framforframe:Mixamo:Walk_Link005:eigenrig012:Eigenrig008:Mesh_R_hand
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
