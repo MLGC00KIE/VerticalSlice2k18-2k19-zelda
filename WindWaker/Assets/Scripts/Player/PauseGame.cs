@@ -10,9 +10,13 @@ public class PauseGame : MonoBehaviour {
         if (Input.GetKeyDown("escape"))
         {
             if (Time.timeScale == 1.0f)
+            {
                 Time.timeScale = 0.0f;//freezes the game
+            }
             else
+            {
                 Time.timeScale = 1.0f;
+            }
         }
     }
 }

@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 3b25efa68d5afb049b33406195e4b626
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Duim
+    100002: DuimVK1
+    100004: DuimVK2
+    100006: Hand
+    100008: Middel
+    100010: Muis
+    100012: MVK1
+    100014: MVK2
+    100016: MVK3
+    100018: Ooglid
+    100020: Pink
+    100022: Pupil
+    100024: PVK1
+    100026: PVK2
+    100028: PVK3
+    100030: //RootNode
+    100032: RIng
+    100034: Wijs
+    100036: WijsVK1
+    100038: WijsVK2
+    100040: WijsVK3
+    100042: WVK1
+    100044: WVK2
+    100046: WVK3
+    400000: Duim
+    400002: DuimVK1
+    400004: DuimVK2
+    400006: Hand
+    400008: Middel
+    400010: Muis
+    400012: MVK1
+    400014: MVK2
+    400016: MVK3
+    400018: Ooglid
+    400020: Pink
+    400022: Pupil
+    400024: PVK1
+    400026: PVK2
+    400028: PVK3
+    400030: //RootNode
+    400032: RIng
+    400034: Wijs
+    400036: WijsVK1
+    400038: WijsVK2
+    400040: WijsVK3
+    400042: WVK1
+    400044: WVK2
+    400046: WVK3
+    2100000: lambert2
+    2100002: lambert3
+    2100004: lambert4
+    2300000: DuimVK1
+    2300002: DuimVK2
+    2300004: Hand
+    2300006: Muis
+    2300008: MVK1
+    2300010: MVK2
+    2300012: MVK3
+    2300014: Ooglid
+    2300016: Pupil
+    2300018: PVK1
+    2300020: PVK2
+    2300022: PVK3
+    2300024: WijsVK1
+    2300026: WijsVK2
+    2300028: WijsVK3
+    2300030: WVK1
+    2300032: WVK2
+    2300034: WVK3
+    3300000: DuimVK1
+    3300002: DuimVK2
+    3300004: Hand
+    3300006: Muis
+    3300008: MVK1
+    3300010: MVK2
+    3300012: MVK3
+    3300014: Ooglid
+    3300016: Pupil
+    3300018: PVK1
+    3300020: PVK2
+    3300022: PVK3
+    3300024: WijsVK1
+    3300026: WijsVK2
+    3300028: WijsVK3
+    3300030: WVK1
+    3300032: WVK2
+    3300034: WVK3
+    4300000: PVK1
+    4300002: PVK3
+    4300004: PVK2
+    4300006: WVK1
+    4300008: WVK2
+    4300010: WVK3
+    4300012: MVK3
+    4300014: MVK2
+    4300016: MVK1
+    4300018: WijsVK1
+    4300020: WijsVK2
+    4300022: WijsVK3
+    4300024: DuimVK1
+    4300026: DuimVK2
+    4300028: Muis
+    4300030: Hand
+    4300032: Pupil
+    4300034: Ooglid
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

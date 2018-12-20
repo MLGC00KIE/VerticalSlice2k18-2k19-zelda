@@ -33,7 +33,7 @@ public class OrbitCamera : MonoBehaviour
             if (Input.GetAxis("Mouse X") != 0 || Input.GetAxis("Mouse Y") != 0)
             {
                 LocalRotation.x += Input.GetAxis("Mouse X") * MouseSensitivity;
-                LocalRotation.y += Input.GetAxis("Mouse Y") * MouseSensitivity;
+                LocalRotation.y += Input.GetAxis("Mouse Y") * MouseSensitivity * -1;
 
                 //Zorgt dat de camera niet onder de grond gaat
                 if (LocalRotation.y < 0f)

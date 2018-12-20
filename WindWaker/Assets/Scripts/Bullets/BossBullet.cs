@@ -6,8 +6,13 @@ public class BossBullet : MonoBehaviour {
 
     [SerializeField]
     float speed = 10f;
-    
-	void Update () {
+
+    private void Start()
+    {
+        Destroy(this.gameObject, 5);
+    }
+
+    void Update () {
         transform.position += transform.forward * speed * Time.deltaTime;
 	}
 }

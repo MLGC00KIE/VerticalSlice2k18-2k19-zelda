@@ -20,7 +20,6 @@ public class Bow : MonoBehaviour
         if (Input.GetMouseButtonDown(1))
         {
             anim.SetTrigger("shoot");
-            anim.ResetTrigger("shoot");
             ShootAnArrow();
         }
 
