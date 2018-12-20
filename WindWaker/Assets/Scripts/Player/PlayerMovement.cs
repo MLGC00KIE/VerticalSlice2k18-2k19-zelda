@@ -2,32 +2,92 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour {
+public class PlayerMovement : MonoBehaviour
+{
+    Animator anim;
+    public Quaternion newrotation;
+    public float smooth = 0.05f;
+    public Transform camera;
+    
 
-    public int speed;
+    void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-
-    // Update is called once per frame
-    void Update() {
-        if (Input.GetKey(KeyCode.W))
+    void Update()
+    {
+        float v = Input.GetAxis("Vertical");
+        float h = Input.GetAxis("Horizontal");
+        movement(v, h);
+       
+ 
+    }
+    void movement(float v, float h)
+    {
+        if (h != 0f || v != 0f)
         {
-            transform.position += Vector3.forward * speed * Time.deltaTime;
+            rotate(v, h);
+            anim.SetFloat("speed", 1);
         }
-        if (Input.GetKey(KeyCode.S))
+        else
         {
-            transform.position += Vector3.back * speed * Time.deltaTime;
-        }
-        if (Input.GetKey(KeyCode.A))
-        {
-            transform.position += Vector3.left * speed * Time.deltaTime;
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            transform.position += Vector3.right * speed * Time.deltaTime;
+            anim.SetFloat("speed", 0);
         }
     }
+    void rotate(float v, float h)
+    {
+        if (v > 0)
+        {
+
+            if (h > 0)
+            {
+                newrotation = Quaternion.Euler(0, camera.eulerAngles.y + 45, 0);
+            }
+            else if (h < 0)
+            {
+                newrotation = Quaternion.Euler(0, camera.eulerAngles.y + 305, 0);
+            }
+            else
+            {
+                newrotation = Quaternion.Euler(0, camera.eulerAngles.y, 0);
+            }
+        }
+        else if (v < 0)
+        {
+            if (h > 0)
+            {
+                newrotation = Quaternion.Euler(0, camera.eulerAngles.y + 135, 0);
+            }
+
+            else if (h < 0)
+            {
+                newrotation = Quaternion.Euler(0, camera.eulerAngles.y + 255, 0);
+            }
+            else
+            {
+                newrotation = Quaternion.Euler(0, camera.eulerAngles.y + 180, 0);
+            }
+        }
+        else
+        {
+            if (h > 0)
+            {
+                newrotation = Quaternion.Euler(0, camera.eulerAngles.y + 90, 0);
+            }
+            else if (h < 0)
+            {
+                newrotation = Quaternion.Euler(0, camera.eulerAngles.y + 270, 0);
+            }
+            else
+            {
+                newrotation = transform.rotation;
+            }
+        }
+        newrotation.x = 0;
+        newrotation.z = 0;
+        transform.rotation = Quaternion.Slerp(transform.rotation, newrotation, smooth);
+    }
+    
 }
+
