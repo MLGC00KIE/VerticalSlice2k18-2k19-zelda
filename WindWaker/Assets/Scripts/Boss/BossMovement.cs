@@ -18,7 +18,7 @@ public class BossMovement : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+        player = GameObject.FindGameObjectWithTag("player").transform;
         StartCoroutine(MoveCloserCountdown(3, 5));
         rb = GetComponent<Rigidbody>();
     }

@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public Quaternion newrotation;
     public float smooth = 0.05f;
     public Transform camera;
-    
+
 
     void Start()
     {
@@ -20,8 +20,8 @@ public class PlayerMovement : MonoBehaviour
         float v = Input.GetAxis("Vertical");
         float h = Input.GetAxis("Horizontal");
         movement(v, h);
-       
- 
+
+
     }
     void movement(float v, float h)
     {
@@ -88,6 +88,5 @@ public class PlayerMovement : MonoBehaviour
         newrotation.z = 0;
         transform.rotation = Quaternion.Slerp(transform.rotation, newrotation, smooth);
     }
-    
-}
 
+}
